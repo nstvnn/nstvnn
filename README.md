@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47mmf3lq00bb9v36jkucyk7p6b9f6pown5tw39mdgl&rid=giphy.gif&ct=g](https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE)"/>
+<img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"width="400"/>
 </div>
 <div id="bagdes" align="center">
 <a href="https://www.instagram.com/_nstvnn_/">
