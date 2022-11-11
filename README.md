@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"width="400"/>
 </div>
 <div id="bagdes" align="center">
-<a href="https://www.instagram.com/_nstvnn_/">
+<a href="https://www.instagram.com/_nstvnn_">
  <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&LogoColor=pink&style=for-the-badge"/>
 <a href="https://vk.com/nstvnn">
  <img src="https://img.shields.io/badge/Vk.com-blue?logo=vk&LogoColor=blue&style=for-the-badge"/>
