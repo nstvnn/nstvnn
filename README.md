@@ -12,10 +12,10 @@
 </div>
 <b>About Me:</b>
   <ul>
-    <li>💬 My name is Nastya, and I am a junior frontend developer. My stack now includes HTML, CSS and JS. But I'm not going to stop there! Here I will post my works, and in order to keep up to new ones you can follow my instagram :p </li>
+   <li>💬 My name is Nastya, and I am a junior frontend developer. My stack now includes HTML, CSS and JS. But I'm not going to stop there! Here I will post my works, and in order to keep up to new ones you can follow my instagram :p </li>
    <li>💻 Now I am still learning the basics of frontend development and I’m going to work in this field. I am available for interaction in order to get any kind of feedback and comments on my works that are to be posted here to upgrade my skills and exchange the experience </li>
    <li>⚡ Fan fact is that I’m actually a teacher by education </li>
-    <li>❓ For any questions about cooperation, you can contact me by mail or write on Instagram </li>
+   <li>❓ For any questions about cooperation, you can contact me by mail or write on Instagram </li>
   </ul>
   🛠️ <b>Languages and Tools:</b>
   <div>
